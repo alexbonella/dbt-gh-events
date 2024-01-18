@@ -44,7 +44,7 @@ The project was implemented using the following steps:
 ![image](https://github.com/alexbonella/dbt-gh-events/blob/main/media/top_languages.png)
 
 ### Top Events `alexbonella`
-![image](https://github.com/alexbonella/dbt-gh-events/blob/main/media/alexbonella_events.png)
+![image](https://raw.githubusercontent.com/alexbonella/dbt-gh-events/main/media/custom_user_events.png)
 
 
 # Project Conclusion
