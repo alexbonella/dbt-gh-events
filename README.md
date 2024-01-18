@@ -13,7 +13,7 @@ If you plan to use this repo for learning or find this content helpful, please h
 The goal of this project was to use DBT to analyze a large dataset of GitHub events. The specific goals of the project were to:
 
 * Understand the types of events that are recorded by GitHub
-* Identify the most active developers and repositories
+* Identify the most active developers , programming languages and repositories
 * Analyze the trends in GitHub activity
 * See my Github activity `alexbonella`
 
@@ -33,6 +33,19 @@ The project was implemented using the following steps:
 * The data was stored in a Snowflake database.
 * DBT was used to transform the data.
 * Analytical insights were generated using SQL queries.
+
+# Project Results
+
+### Top Repos
+
+![image](https://github.com/alexbonella/dbt-gh-events/blob/main/media/top_repos.png)
+
+### Top Languages
+![image](https://github.com/alexbonella/dbt-gh-events/blob/main/media/top_languages.png)
+
+### Top Events `alexbonella`
+![image](https://github.com/alexbonella/dbt-gh-events/blob/main/media/alexbonella_events.png)
+
 
 # Project Conclusion
 
